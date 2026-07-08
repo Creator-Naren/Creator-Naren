@@ -1,99 +1,166 @@
-# Hi there, I'm Naren 👋
+# 👋 Hi there, I'm **Naren**
 
 <div align="center">
 
-![banner](https://img.shields.io/badge/👨‍💻-Creator--Naren-ff6b6b?style=for-the-badge&logo=github)
+### *Full-Stack Developer • Security & AI Enthusiast • DevTools Creator*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Creator-Naren&color=ff6b6b&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Creator-Naren?style=social)
 
 </div>
 
-I'm a full‑stack tinkerer who loves building elegant developer tools, secure systems, and beautiful visualizations. I mix practical engineering with AI-powered automation to make developer lives easier and systems safer.
+---
+
+## 🎯 **About Me**
+
+I'm a full-stack tinkerer crafting **elegant developer tools**, **secure systems**, and **beautiful visualizations**. I blend practical engineering with **AI-powered automation** to make developer lives better.
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 **Current Focus**
+- Building AI-integrated security tools
+- Crafting delightful developer experiences
+- Exploring LLM-powered automation
+- Open-source contributions
+
+</td>
+<td width="50%">
+
+### 🌟 **What Drives Me**
+- 🔒 Security-first thinking
+- 📊 Data visualization
+- 🚀 Performance optimization
+- 🧠 Machine learning integration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Quick Snapshot
+## 🛠️ **Tech Stack**
 
-- Role: Developer • Maker • Security & AI enthusiast
-- Location: Earth 🌍 (open to remote collabs)
-- Currently: Building tools that combine AI with security and delightful UIs
+<div align="center">
 
----
+### **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🚀 Tech & Tools
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+### **Backend & Cloud**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+### **AI & APIs**
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🔥 Featured Projects
-
-### 🐛 Bug-Hunter
-A local-first developer tool and web UI for scanning Python code with structured AI security analysis. Transforms AI findings into draft bug reports and remediation suggestions — built with TypeScript, React, Firebase and Google Gemini.
-
-Tech: TypeScript • React • Firebase • Google Gemini • Python
+</div>
 
 ---
 
-### 🌐 Net-Visual-Analyzer
-A network security dashboard with DNS analysis, security scoring, and an interactive 3D topology visualizer. Great for exploring attack surfaces and visualizing relationships.
+## 🔥 **Featured Projects**
 
-Tech: Vite • React • TypeScript • Tailwind CSS • Three.js
+### 🐛 **Bug-Hunter**
+> *Local-first developer tool with AI-powered security analysis*
 
----
+Scan Python code with structured AI security analysis. Transforms findings into draft bug reports and remediation suggestions.
 
-### 📋 Resume-Short-lister
-Automated resume screening and shortlisting for hiring teams. CLI + API + interactive demo to speed up candidate triage.
-
-Tech: Python • FastAPI • React
-
----
-
-## 💡 Interests
-
-- 🔒 Security + AI — building automated, trustworthy analysis tools
-- 📊 Data Viz — turning complex data into clear, interactive insights
-- 🛠️ DevTools — productivity-focused tooling for engineers
-- 🧠 ML/LLMs — integrating advanced models into practical workflows
+- **Features**: Real-time scanning • Draft bug reports • Remediation suggestions
+- **Tech Stack**: TypeScript • React • Firebase • Google Gemini • Python
+- **Status**: ⚡ Active Development
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 **Net-Visual-Analyzer**
+> *Network security dashboard with 3D topology visualization*
 
-<p align="center">
-  <a href="https://github.com/Creator-Naren">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Creator-Naren&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Creator-Naren">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creator-Naren&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
+Explore attack surfaces and visualize network relationships with DNS analysis and security scoring.
+
+- **Features**: DNS analysis • Security scoring • Interactive 3D topology
+- **Tech Stack**: Vite • React • TypeScript • Tailwind CSS • Three.js
+- **Status**: 🚀 Production Ready
 
 ---
 
-## 📈 Activity
+### 📋 **Resume-Short-lister**
+> *Automated resume screening for hiring teams*
 
-[![Naren's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Creator-Naren&theme=dark&hide_border=true)](https://github.com/Creator-Naren)
+CLI + API + interactive demo for faster candidate triage and evaluation.
+
+- **Features**: Batch screening • Scoring • Interactive evaluation UI
+- **Tech Stack**: Python • FastAPI • React
+- **Status**: ⚙️ Maintenance
 
 ---
 
-## 📫 Let's Connect
+## 📊 **GitHub Analytics**
 
-- GitHub: https://github.com/Creator-Naren
-- Email: (drop an email here if you want it listed)
-- Open to: collaborations, mentorship, and interesting security/AI projects
+<div align="center">
+
+<a href="https://github.com/Creator-Naren">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creator-Naren&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/Creator-Naren">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creator-Naren&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
+## 📈 **Activity Timeline**
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Creator-Naren&theme=dark-dimmed&hide_border=true)](https://github.com/Creator-Naren)
+
+</div>
+
+---
+
+## 💡 **Core Interests**
+
+| Area | Focus |
+|------|-------|
+| 🔒 **Security + AI** | Building automated, trustworthy analysis tools |
+| 📊 **Data Visualization** | Turning complex data into clear, interactive insights |
+| 🛠️ **DevTools** | Productivity-focused tooling for engineers |
+| 🧠 **ML/LLMs** | Integrating advanced models into practical workflows |
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Creator-Naren)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/creator-naren)
+
+### 💬 **Open To:**
+- 🤝 Collaborations on security & AI projects
+- 🧑‍🏫 Mentorship opportunities
+- 💼 Interesting technical discussions
+- 🚀 Building next-gen developer tools
+
+</div>
 
 ---
 
 <div align="center">
-  <strong>Thanks for stopping by — explore the repos, and don't forget to ⭐ your favorites!</strong>
-  
-  <p>Want a custom README look? I can help design one for your profile — ping me!</p>
+
+### ⭐ *Thanks for visiting — feel free to explore my repos and star your favorites!*
+
+<strong>Want a custom README like this?</strong> *I can help design one for your profile — ping me!*
+
 </div>
