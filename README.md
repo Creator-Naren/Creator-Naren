@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Dynamic Typing Animation -->
   <a href="https://github.com/Creator-Naren">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Naren+👋;Full-Stack+Developer;Security+%26+AI+Enthusiast;DevTools+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Naren+👋;Full-Stack+Develope[...]" />
   </a>
 
   <p align="center">
@@ -67,6 +67,10 @@ I blend practical engineering with **AI-powered automation** to make developer l
 | 🐛 **Bug-Hunter** | Local-first developer tool with AI-powered security analysis. Transforms findings into draft bug reports. | `TypeScript` `React` `Gemini` `Python` | ⚡ Active |
 | 🌐 **Net-Visual-Analyzer** | Network security dashboard with 3D topology visualization & DNS analysis. | `Vite` `React` `Three.js` `Tailwind` | 🚀 Prod Ready |
 | 📋 **Resume-Short-lister** | Automated resume screening for hiring teams with batch screening and interactive UI. | `Python` `FastAPI` `React` | ⚙️ Maint. |
+| ✂️ **Snippet-Saver** | Cross-repo code snippet manager with searchable tags, sync, and share features for teams. | `TypeScript` `Node.js` `SQLite` `React` | 🧪 Beta |
+| 📈 **Viz-Insights** | Modular data-visualization toolkit for building interactive dashboards and embeddable charts. | `Python` `D3.js` `React` `FastAPI` | 🚧 Early Dev |
+| 🔐 **Secure-Auth** | Lightweight authentication & authorization microservice with JWT, RBAC, and audit logging. | `Go` `Postgres` `Docker` | ⚙️ Maint. |
+| ⚙️ **CLI-Forge** | Developer CLI toolkit for scaffolding, automation scripts, and deployment helpers. | `Rust` `TypeScript` | ⚡ Active |
 
 ---
 
