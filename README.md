@@ -1,7 +1,8 @@
 <div align="center">
   <!-- Dynamic Typing Animation -->
   <a href="https://github.com/Creator-Naren">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Naren+👋;Full-Stack+Developer+%26+Security+Enthusiast;Building+AI-powered+DevTools+%26+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Naren+👋;
+      Full-Stack+Developer+%22+Security+Enthusiast;Building+AI-powered+DevTools+%22+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
